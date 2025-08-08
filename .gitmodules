@@ -1,0 +1,9 @@
+[submodule "Compound/lib/forge-std"]
+	path = Compound/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Compound/lib/compound-protocol"]
+	path = Compound/lib/compound-protocol
+	url = https://github.com/compound-finance/compound-protocol
+[submodule "Morpho/lib/forge-std"]
+	path = Morpho/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
